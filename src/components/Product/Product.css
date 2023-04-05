@@ -43,5 +43,6 @@
 }
 
 .btn-cart:hover{
-    background-color: #b0884c;
+    background-color: green;
+    color: white;
 }
