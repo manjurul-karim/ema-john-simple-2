@@ -17,3 +17,17 @@
     text-align: center;
     font-size: 20px;
 }
+
+.btn-clear-cut{
+    display: flex;
+    height: 56px;
+    font-size: 18px;
+    justify-content: space-between;
+    width: 90%;
+    margin: 10px auto;
+    background-color: #FF3030;
+    border-radius: 4px;
+    color: white;
+    align-items: center;
+    
+}
